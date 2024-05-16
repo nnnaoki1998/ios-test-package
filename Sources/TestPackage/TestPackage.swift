@@ -1,3 +1,3 @@
 struct TestPackage {
-    var text = "Hello, World! This is TestPackage!!"
+    var text = "Hello, World! This is TestPackage!!!!"
 }
